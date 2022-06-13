@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Satisfy';
+    src: url('../../fonts/Satisfy.eot');
+    src: url('../../fonts/Satisfyd41d.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Satisfy.woff2') format('woff2'),
+        url('../../fonts/Satisfy.woff') format('woff'),
+        url('../../fonts/Satisfy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
